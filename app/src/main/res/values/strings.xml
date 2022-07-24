@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android Bakary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_in_bakery">Welcome to Android Bakery</string>
+    <string name="choose_cake">Tap to choose your favourite candy!</string>
 </resources>

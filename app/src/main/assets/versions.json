@@ -1,0 +1,222 @@
+  [
+    {
+      "id": 20,
+      "codename": "Tiramisu",
+      "version_numbers": "Android 13",
+      "sdk": "Level 33",
+      "api_level": null,
+      "version_codes": "T",
+      "year": null,
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/2/22/Android_13_Developer_Preview_logo.svg/revision/latest?cb=20220407002905"
+    },
+    {
+      "id": 19,
+      "codename": "Snow Cone",
+      "version_numbers": "Android 12",
+      "sdk": "Android 12L, Android 12",
+      "api_level": "Level 32, Level 31",
+      "version_codes": "S_V2, S",
+      "year": "2021",
+      "usage": 17.6,
+      "icon": "https://logos.fandom.com/wiki/File:Android12.svg"
+    },
+    {
+      "id": 18,
+      "codename": "Red Velvet Cake",
+      "version_numbers": "Android 11",
+      "sdk": null,
+      "api_level": null,
+      "version_codes": "R",
+      "year": "2020",
+      "usage": 49.2,
+      "icon": "https://logos.fandom.com/wiki/File:Android11Logo.svg"
+    },
+    {
+      "id": 17,
+      "codename": "Quince Tart",
+      "version_numbers": "Android 10",
+      "sdk": null,
+      "api_level": "Level 29",
+      "version_codes": "Q",
+      "year": "2019",
+      "usage": 71.1,
+      "icon": "https://logos.fandom.com/wiki/File:Android_Q_logo.svg"
+    },
+    {
+      "id": 16,
+      "codename": "Pie",
+      "version_numbers": "Android 9",
+      "sdk": null,
+      "api_level": "Level 28",
+      "version_codes": "P",
+      "year": "2018",
+      "usage": 82.2,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/1/13/Android_P_logo.svg/revision/latest?cb=20181206002910"
+    },
+    {
+      "id": 15,
+      "codename": "Oreo",
+      "version_numbers": "Android 8",
+      "sdk": "Android 8.1, Android 8.0",
+      "api_level": "Level 27, Level 26",
+      "version_codes": "O",
+      "year": "2017",
+      "usage": 88.1,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/2/26/Android_Oreo_8.1_logo.svg/revision/latest?cb=20191128193626"
+    },
+    {
+      "id": 14,
+      "codename": "Nougat",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://logos.fandom.com/wiki/File:Nougat.png"
+    },
+    {
+      "id": 13,
+      "codename": "Marshmallow",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f5/Nexus2cee_pv9AcTqS-gotB5ply6js6SgqwcMrXcvbZlicenbfWh5Q-iW7cf6RrGM-TR7dSM0Z2BbVGAs2048.png/revision/latest/scale-to-width-down/150?cb=20150818115710"
+    },
+    {
+      "id": 12,
+      "codename": "Lollipop",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ea/Android_5.0.png/revision/latest?cb=20150607025024"
+    },
+    {
+      "id": 11,
+      "codename": "KitKat",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/d/d0/Android_KitKat_logo.svg/revision/latest?cb=20190604073505"
+    },
+    {
+      "id": 10,
+      "codename": "Jelly Bean",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Android_jelly_bean.png/revision/latest?cb=20180725204026"
+    },
+    {
+      "id": 9,
+      "codename": "Ice Cream Sandwich",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a0/Android_4.0_Ice_Cream_Sandwich.png/revision/latest?cb=20220524013516"
+    },
+    {
+      "id": 8,
+      "codename": "Honeycomb",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/2/24/Android_honeycomb.png/revision/latest?cb=20150606124903"
+    },
+    {
+      "id": 7,
+      "codename": "Gingerbread",
+      "version_numbers": "",
+      "sdk": "",
+      "api_level": "",
+      "version_codes": "T",
+      "year": "",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Android_2.3_Gingerbread.png/revision/latest?cb=20220524013253"
+    },
+    {
+      "id": 6,
+      "codename": "Froyo",
+      "version_numbers": "Android 2",
+      "sdk": "Android 2.2",
+      "api_level": "Level 8",
+      "year": "2010",
+      "version_codes": "FROYO",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f0/Android_2.2_Froyo.png/revision/latest?cb=20220524013228"
+    },
+    {
+      "id": 5,
+      "codename": "Eclair",
+      "version_numbers": "Android 2",
+      "sdk": "Android 2.1, Android 2.0.1, Android 2.0",
+      "api_level": "Level 7, Level 6, Level 5",
+      "version_codes": "ECLAIR",
+      "year": "2009/2010",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/9/95/Android_2.0.jpg/revision/latest?cb=20150606123541"
+    },
+    {
+      "id": 4,
+      "codename": "Donut",
+      "version_numbers": "Android 1",
+      "sdk": "Android 1.6",
+      "api_level": "Level 4",
+      "version_codes": "DONUT",
+      "year": "2009",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f7/Android_1.6_Donut.png/revision/latest?cb=20220524013143"
+    },
+    {
+      "id": 3,
+      "codename": "Cupcake",
+      "version_numbers": "Android 1",
+      "sdk": "Android 1.5",
+      "api_level": "Level 3",
+      "version_codes": "CUPCAKE",
+      "year": "2009",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/6/63/Android_1.5_Cupcake.png/revision/latest?cb=20220524013111"
+    },
+    {
+      "id": 2,
+      "codename": "Banana Bread",
+      "version_numbers": "Android 1",
+      "sdk": "Android 1.1",
+      "api_level": "Level 2",
+      "version_codes": "BASE_1_1",
+      "year": "2009",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ec/Android_1.1_Banana_Bread.png/revision/latest?cb=20220524013019"
+    },
+    {
+      "id": 1,
+      "codename": "Apple Pie",
+      "version_numbers": "Android 1",
+      "sdk": "Android 1.0",
+      "api_level": "Level 1",
+      "version_codes": "BASE",
+      "year": "2008",
+      "usage": null,
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a5/Android_1.0_Apple_Pie.png/revision/latest?cb=20220524012951"
+    }
+  ]
