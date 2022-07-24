@@ -2,9 +2,11 @@
 Mobile app for checking android's version details.
 
 ## Overview
-<img src="./assets/Screenshot_1.png" height=350>
-<img src="./assets/Screenshot_2.png" height=350>
-<img src="./assets/Screenshot_3.png" height=350>
+<p float="left">
+  <img src="./assets/Screenshot_1.png" height=350>
+  <img src="./assets/Screenshot_2.png" height=350>
+  <img src="./assets/Screenshot_3.png" height=350>
+</p>
 
 ## Created with
 - Android Studio 2021.2.1
